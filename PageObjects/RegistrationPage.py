@@ -1,0 +1,11 @@
+# Registration Page Elements
+registrationLink = "class: ico-register"
+registerLogo = "css: div.page-title h1"
+genderFemaleRadioButton = "id: gender-female"
+firstNameInput = "id: FirstName"
+lastNameInput = "id: LastName"
+emailIdInput = "id: Email"
+passwordInput = "id: Password"
+confirmPasswordInput = "id: ConfirmPassword"
+registerButton = "id: register-button"
+registrationSuccessMessage = "css: div.result"
