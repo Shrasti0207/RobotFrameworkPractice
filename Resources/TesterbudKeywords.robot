@@ -1,6 +1,6 @@
 *** Settings ***
 Library           SeleniumLibrary
-Variables          ../PageObjects/TesterbudPage.py
+Variables          ../PageObjects/TesterbudPage.py          
 
 *** Keywords ***
 Go to TesterBud Practicesites Toggle Menu
